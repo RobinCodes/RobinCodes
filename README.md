@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Robin
 #### I'm an amatuer coder and like to do basic pentesting when I can ✅
-![logo]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://i.postimg.cc/BbHTyzyk/logo.jpg))
+![logo]([https://i.postimg.cc/BbHTyzyk/logo.jpg])
 
 Hello I'm Robin and I mainly specialize in basic penetration testing and coding (the main language's being: Python, C# .NET)
 
