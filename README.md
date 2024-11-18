@@ -6,7 +6,8 @@ Hello I'm Robin and I mainly specialize in basic penetration testing and coding 
 
 Skills: Python / C# .NET
 
-- 🔭 I’m currently working on My Website 
+- 🔭 I’m currently working on My Website
+- 🧠 Currently learning HTML
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinCodes)](https://github.com/anuraghazra/github-readme-stats)
