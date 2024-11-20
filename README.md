@@ -6,7 +6,7 @@ Hello I'm Robin and I mainly specialize in basic penetration testing and coding 
 
 Skills: Python / C# .NET
 
-- 🔭 I’m currently working on My Website
+- 🔭 I’m currently working on my website
 - 🧠 Currently learning HTML
 
 
