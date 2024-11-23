@@ -11,4 +11,4 @@ Skills: Python / C# .NET
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinCodes&show_icons=true&theme=vue-dark&hide_border=true) ![robincodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robincodes&theme=vue-dark&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinCodes&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinCodes&theme=vue-dark&hide_border=true)]
