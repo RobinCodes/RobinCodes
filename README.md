@@ -10,7 +10,5 @@ Skills: Python / C# .NET
 - 🧠 Currently learning HTML
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinCodes)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinCodes&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinCodes)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinCodes&show_icons=true)  
 
