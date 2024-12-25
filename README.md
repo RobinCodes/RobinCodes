@@ -2,7 +2,7 @@
 #### I'm an amatuer coder and like to do basic pentesting when I can ✅
 ![logo](https://i.postimg.cc/5N55SZ8F/logo.jpg)
 
-Hello I'm Robin and I mainly specialize in basic penetration testing and coding (the main language's being: Python, C# .NET)
+Hello I'm Robin and I mainly specialize in basic penetration testing, OSINT and coding (the main language's being: Python, C# .NET)
 
 Skills: Python / C# .NET
 
