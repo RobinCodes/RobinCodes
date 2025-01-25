@@ -8,5 +8,9 @@ Skills: Python / C# .NET
 - 🔭 I’m currently working on my website
 - 🧠 Currently learning HTML
 
+### Discord
+
+Link: https://discord.gg/6pSR2Rcqeg
+
 #                                                   Contributions
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinCodes&show_icons=true&theme=vue-dark&hide_border=true) 
