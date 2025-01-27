@@ -12,5 +12,8 @@ Skills: Python / C# .NET
 
 Link: https://discord.gg/6pSR2Rcqeg
 
-#                                                   Contributions
+# Contributions
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinCodes&show_icons=true&theme=vue-dark&hide_border=true) 
+
+# Profile Views
+![Github_Views](https://komarev.com/ghpvc/?username=RobinCodes&color=green)
