@@ -1,5 +1,6 @@
 ### Hi there 👋, My name is Robin
-![logo](https://github.com/user-attachments/assets/ce0e4fc7-42da-4b41-b08a-07452b7b1df2)
+![logo](https://github.com/user-attachments/assets/58b40487-b02e-4812-9576-5347e645d4de)
+
 
 Hello I'm Robin and I mainly specialize in basic penetration testing, OSINT and coding (the main language's being: Python, C# .NET)
 
