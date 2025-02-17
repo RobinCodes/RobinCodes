@@ -2,7 +2,7 @@
 
 Hello I'm Robin and I mainly specialize in basic penetration testing, OSINT and coding (the main language's being: Python, C# .NET)
 
-Skills: Python / C# .NET
+Skills: Python / C# .NET / HTML
 
 - 🔭 I’m currently working on my new Xbox-FastAPI tool and CSGO external hacks
 - 🧠 I'm learning and looking into networking
