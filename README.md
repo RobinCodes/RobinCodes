@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋, My name is Robin
 
-<!--
-**RobinCodes/RobinCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I'm Robin and I mainly specialize in basic penetration testing, OSINT and coding (the main language's being: Python, C# .NET)
 
-Here are some ideas to get you started:
+Skills: Python / C# .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my new Xbox-FastAPI tool and CSGO external hacks
+- 🧠 I'm learning and looking into networking
+
+### Discord
+
+Link: https://discord.gg/6pSR2Rcqeg
+
+# Contributions
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RobinCodes&show_icons=true&theme=vue-dark&hide_border=true) 
+
+# Profile Views
+![Github_Views](https://komarev.com/ghpvc/?username=RobinCodes&color=green)
