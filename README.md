@@ -5,7 +5,7 @@ Hello I'm Robin and I mainly specialize in basic penetration testing, OSINT and 
 Skills: Python / C# .NET / HTML
 
 - 🔭 I’m currently working on my new Xbox-FastAPI tool
-- 🧠 I'm learning and looking into networking
+- 🧠 I'm learning and looking into networking and everything surrounding IT
 
 ### Discord
 
